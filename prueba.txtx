@@ -1,1 +1,10 @@
-dsadasdasdasdada
+1.abrir el terminal sandbox
+2.ssh-keygen
+- enter, enter, enter, enter
+3.vas a la carpeta donde se genero la clave
+/root/.ssh
+4.cat idrsa.pub
+
+5. copias y pegas esa clave en github
+
+6. yupiii
